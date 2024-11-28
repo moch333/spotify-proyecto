@@ -60,7 +60,7 @@ st.subheader(":green[En este proyecto, se pueden observar tres herramientas:]")
 st.markdown(":green[**1.** Gráfico que muestra los subgéneros más escuchados por género músical]")
 st.markdown(":green[**2.** Gráfico que muestra cuantas canciones fueron lanzadas según el mes]")
 st.markdown(":green[**3.** Canción aleatoria con toda su información]")
-st.markdown(":green[Esta información se generó gracias al siguiente DataFrame]")
+st.markdown(":green[Esta información se generó gracias al siguiente DataFrame:]")
 
 #DataFrame
 st.dataframe(spotify_df)
